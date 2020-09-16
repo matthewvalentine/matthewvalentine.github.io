@@ -1,1 +1,4 @@
 remote_theme: matthewvalentine/so-simple-theme
+
+mathjax:
+  enable: true
