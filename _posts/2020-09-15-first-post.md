@@ -18,4 +18,11 @@ $$
 
 ## Does it make a TOC? Probably not
 
-But it's worth findind out.
+But it's worth finding out.
+
+<details>
+<summary markdown="span">This is the summary _and_ it really is</summary>
+### Nonsense
+
+These are the \\(dtails\\)
+</details>

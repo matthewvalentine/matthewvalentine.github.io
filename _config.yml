@@ -3,5 +3,8 @@ remote_theme: matthewvalentine/so-simple-theme
 mathjax:
   enable: true
 
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+category_archive_path: "/categories#"
+tag_archive_path: "/tags#"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
